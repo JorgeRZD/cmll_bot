@@ -3,4 +3,4 @@ A Telegram bot built for fans of lucha libre, specifically "Consejo mundial de l
 
 The bot aims to deliver timely information about upcoming shows, perfomers, results and stats.
 
-![cmll_logo](https://en.wikipedia.org/wiki/Consejo_Mundial_de_Lucha_Libre#/media/File:CMLL-logo-2018.png)
+![cmll_logo](https://www.deviantart.com/darkvoidpictures/art/CMLL-Logo-772022188)
